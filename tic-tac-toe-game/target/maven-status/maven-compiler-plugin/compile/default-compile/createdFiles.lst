@@ -1,0 +1,7 @@
+co\id\fwd\challange\TicTacToe.class
+co\id\fwd\challange\model\Board.class
+co\id\fwd\challange\model\Player.class
+co\id\fwd\challange\controller\ThymeleafViewController.class
+co\id\fwd\challange\controller\TicTacToeController.class
+co\id\fwd\challange\services\TicTacToeService.class
+co\id\fwd\challange\Application.class
